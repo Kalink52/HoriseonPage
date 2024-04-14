@@ -30,10 +30,6 @@ p {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -51,6 +47,9 @@ p {
     margin-left: 25px;
 }
 
+.seo {
+    color: #d9dcd6;
+}
 
 .hero {
     height: 800px;
@@ -74,7 +73,9 @@ p {
 }
 
 
-
+/*  condensed most of these sections down. 
+they had multiple classes with the same styling
+when possible I only used one class with the styling*/
 .benefits {
     margin-right: 20px;
     padding: 20px;

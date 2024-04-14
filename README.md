@@ -1,9 +1,17 @@
 # Horiseon Page
+Deployed App: https://kalink52.github.io/HoriseonPage/
+
+## Screenshot
+![alt text](Screenshot.png)
 
 
-## Installation
+## What was done
 
-## Usage
+- Replaced the div tags to semantic HTMl elements
+- Added alts attributes to images in case they break
+- Changed the header
+- added comments to changes made to html and css, and warnings
+
 
 ## Contributing
 
